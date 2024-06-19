@@ -1,0 +1,18 @@
+RUN del Cliente: 17.162.856-5
+Nombre del Cliente: Iron
+Apellido del Cliente: Manjar
+Años como Cliente: 1 año
+Categoría del Cliente: Activo
+-------------------------------------------
+RUN del Cliente: 10.513.821-6
+Nombre del Cliente: Thor
+Apellido del Cliente: Tita 
+Años como Cliente: 4 años
+Categoría del Cliente: Activo
+-------------------------------------------
+RUN del Cliente: 17.151.677-8
+Nombre del Cliente: Capitán
+Apellido del Cliente: Marraqueta
+Años como Cliente: 9 años
+Categoría del Cliente: Inactivo
+-------------------------------------------
